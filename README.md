@@ -12,7 +12,7 @@
 
     - Clone the repo
     - run npm init
-    - run npm i express,dotenv package,MySQL2, Sequelize
+    - run npm i dotenv package,MySQL2, Sequelize
     - create a .env file
     - copy and past for .env file
         DB_NAME='ecommerce_db'
