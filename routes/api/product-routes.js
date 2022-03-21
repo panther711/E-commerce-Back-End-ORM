@@ -1,5 +1,6 @@
 const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
+const { sync } = require('../../models/Product');
 
 // The `/api/products` endpoint
 
@@ -11,9 +12,13 @@ router.get('/', (req, res) => {
   Post.findAll({
     include: [
       {
-        model: Product,
-        attributes: ['product_name', 'price', 'stock'],
+        model: Category,
+        attributes: ['Category_name']
       },
+      {
+        model: Tag,
+        attributes: ['tag_name']
+      }
     ]
   })
     .then(dbPostData => res.json(dbPostData))
@@ -22,7 +27,6 @@ router.get('/', (req, res) => {
       res.status(500).json(err);
     });
 });
-
 
 // get one product
 router.get('/:id', (req, res) => {

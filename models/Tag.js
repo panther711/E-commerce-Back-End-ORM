@@ -13,8 +13,13 @@ Tag.init(
       autoIncrement: true,
       allowNull: false
     },
-    tag_id: {
+
+    tag_name: {
       type: DataTypes.INTEGER,
+      references: {
+        model: 'tag',
+        key: 'id'
+      }
     }
   },
 
