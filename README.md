@@ -13,7 +13,7 @@
 
 ## Deme video
 
-
+[!][Watch the video](https://user-images.githubusercontent.com/86085362/159827076-2dac8a6f-6e48-4711-9367-ff81dfd1971c.mp4)
 
 ## User Story
     E-commerce website that uses the latest technologies
@@ -47,6 +47,7 @@ menderes koc
 [email](mailto:mndrs.kc@gmail.com)
 
 [GitHub](https://github.com/mendereskoc)
+
 
 ### ©️2022 
 
