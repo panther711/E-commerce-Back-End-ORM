@@ -9,20 +9,18 @@ Tag.init(
     // define columns
     id: {
       type: DataTypes.INTEGER,
+      allowNull: false,
       primaryKey: true,
-      autoIncrement: true,
-      allowNull: false
+      autoIncrement: true
     },
 
     tag_name: {
-      type: DataTypes.INTEGER,
-      references: {
-        model: 'tag',
-        key: 'id'
+      type: DataTypes.STRING,
+      validate: {
+        notEmpty: true
       }
     }
   },
-
   {
     sequelize,
     timestamps: false,

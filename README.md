@@ -1,5 +1,19 @@
 # E-commerce Back End-ORM
 
+## Built With
+ - Javascript
+ - Node.js
+ - Mysql
+ - Sequelize
+
+## Images
+![ScreenShot](/assets/img/Screenshot1.png)
+
+![ScreenShot](/assets/images/Screenshot.png)
+
+## Deme video
+
+
 
 ## User Story
     E-commerce website that uses the latest technologies
@@ -20,8 +34,19 @@
         DB_PW='your MySQL password
     - MySQL shell run 
         source db/schema.sql
-    - run npm run seed to seed data
-    - npm start
+    - run "npm run seed" to seed data
+    - npm start /node server.js
     - for testing options recommend insomnia
 
+## Questions
+  
+Contact for questions and suggestions:
+
+menderes koc
+
+[email](mailto:mndrs.kc@gmail.com)
+
+[GitHub](https://github.com/mendereskoc)
+
+### ©️2022 
 
