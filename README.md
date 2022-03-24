@@ -9,7 +9,7 @@
 ## Images
 ![ScreenShot](/assets/img/Screenshot1.png)
 
-![ScreenShot](/assets/images/Screenshot.png)
+![ScreenShot](/assets/img/Screenshot.png)
 
 ## Deme video
 
