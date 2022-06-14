@@ -4,7 +4,7 @@
 
 E-commerce website that uses the latest technologies,database model for back end creatin,deleting,updating also categories.A walkthrough video that demonstrates the functionality of the e-commerce back end
 
-## Built With
+## Technology Used
 
 - Javascript
 - Node.js
