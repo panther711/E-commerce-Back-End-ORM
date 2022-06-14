@@ -44,7 +44,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Deme video
 
-![watch the video](https://user-images.githubusercontent.com/86085362/159827076-2dac8a6f-6e48-4711-9367-ff81dfd1971c.mp4)
+[watch the video](https://user-images.githubusercontent.com/86085362/159827076-2dac8a6f-6e48-4711-9367-ff81dfd1971c.mp4)
 
 ## Contact for questions and suggestions:
 
